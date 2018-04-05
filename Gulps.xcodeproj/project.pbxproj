@@ -1427,7 +1427,7 @@
 				);
 				IBSC_MODULE = Gulps_WatchKit_Extension;
 				INFOPLIST_FILE = "Gulps WatchKit App/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = com.appleeducate.gulptest.watchkitapp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.appleeducate.gulptest.watchkit;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -1452,7 +1452,7 @@
 				ENABLE_BITCODE = YES;
 				IBSC_MODULE = Gulps_WatchKit_Extension;
 				INFOPLIST_FILE = "Gulps WatchKit App/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = com.appleeducate.gulptest.watchkitapp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.appleeducate.gulptest.watchkit;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -1484,7 +1484,7 @@
 				INFOPLIST_FILE = "Gulps WatchKit Extension/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.appleeducate.gulptest.watchkitapp.watchkitextension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.appleeducate.gulptest.watchkit.extension;
 				PRODUCT_NAME = "${TARGET_NAME}";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -1512,7 +1512,7 @@
 				INFOPLIST_FILE = "Gulps WatchKit Extension/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.appleeducate.gulptest.watchkitapp.watchkitextension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.appleeducate.gulptest.watchkit.extension;
 				PRODUCT_NAME = "${TARGET_NAME}";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
